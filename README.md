@@ -8,8 +8,10 @@
 
 
 ⚡ I'm currently familiar with or learning
-
-Python  C++  C  R  LaTeX
+- Python  
+- C++, C  
+- R  
+- LaTeX
 
 🕑 Some stats
 
