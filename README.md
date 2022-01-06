@@ -8,10 +8,11 @@
 
 
 ⚡ I'm currently familiar with or learning
-- Python  
-- C++, C  
+- **Python**
+- C/**C++**
 - R  
 - LaTeX
+- Linux
 
 🕑 Some stats
 
