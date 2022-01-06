@@ -11,9 +11,9 @@
 - **Python**
 - C/**C++**
 - R  
-- LaTeX
+- **LaTeX**
 - Linux
 
-🕑 Some stats of my github
+🕑 Some stats of my Github
 
 ![Jacob Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-1nOnly&show_icons=true&hide=contribs,prs&theme=tokyonight)
