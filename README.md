@@ -7,7 +7,7 @@
 - 🥰 My current interest lies in adversarial attack, computer vision and mathematics and machine learning.
 
 
-⚡ I'm currently familiar with or learning
+⚡ I'm currently familiar with and still learning
 - **Python**
 - C/**C++**
 - R  
