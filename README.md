@@ -4,7 +4,7 @@
 
 - 🎓 A junior undergraduate majored in Electrical and Computer Engineering at UM-SJTU JI.
 
-- 🥰 My current interest lies in adversarial attack, computer vision and mathematics.
+- 🥰 My current interest lies in neural rendering, computer vision and mathematics.
 
 
 ⚡ I'm currently familiar with and still learning
