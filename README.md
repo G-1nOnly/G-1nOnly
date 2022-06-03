@@ -13,6 +13,7 @@
 - R  
 - **LaTeX**
 - Linux
+- Shell
 
 🕑 Some stats of my Github
 
