@@ -2,10 +2,11 @@
 
 👨‍🎓 I'm Jacob Gao, 
 
-- 🎓 A junior undergraduate majored in Electrical and Computer Engineering, minor in Data Science at UM-SJTU JI
+- 🎓 A senior undergraduate majored in Electrical and Computer Engineering, minor in Data Science and Computer Science at UM-SJTU JI
+- 🎓 An incoming PHD student in AI instititute, SJTU
 
-- 🥰 My current interest lies in neural rendering, computer vision and mathematics
-
+- 🥰 My current interest lies in neural rendering, specifically in digital human generation, computer vision and mathematics
+- 🤗 I'm currently an intern at Alibaba.
 
 ⚡ I'm currently familiar with and still learning
 - **Python**
