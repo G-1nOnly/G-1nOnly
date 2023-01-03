@@ -11,7 +11,7 @@
 ⚡ I'm currently familiar with and still learning
 - **Python**
 - C/**C++**
-- R  
+- Matlab
 - **LaTeX**
 - Linux
 - Shell
