@@ -8,13 +8,6 @@
 - 🥰 My current interest lies in computer vision, specifically in 3D object reconstruction and digital human reconstruction.
 - 🤗 I'm currently an intern at Alibaba.
 
-⚡ I'm currently familiar with and still learning
-- **Python**
-- C/**C++**
-- Matlab
-- **LaTeX**
-- Linux
-- Shell
 
 🕑 Some stats of my Github
 
