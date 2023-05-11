@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨‍🎓 I'm Jacob Gao, 
+👨‍🎓 I'm Jingnan Gao, 
 
 - 🎓 A senior undergraduate majored in Electrical and Computer Engineering, minor in Data Science and Computer Science at UM-SJTU JI
 - 🎓 An incoming PhD student in AI instititute, SJTU
