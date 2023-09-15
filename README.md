@@ -5,7 +5,7 @@
 - 🎓 A first-year PhD student in AI instititute, SJTU.
 
 - 🥰 My current interest lies in computer vision, especifically in 3D reconstruction, 3D editing and talking head synthesis.
-- 🤗 I'm currently an intern at Alibaba working on 3D object reconstruction on mobile devices.
+- 🤗 I'm currently an intern at Alibaba working on 3D object reconstruction (with mesh) on mobile devices.
 
 <!-- 
 🕑 Some stats of my Github
