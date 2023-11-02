@@ -6,6 +6,7 @@
 
 - 🥰 My current interest lies in computer vision, especially in 3D reconstruction, 3D editing and talking head synthesis.
 - 🤗 I'm currently an intern at **Alibaba** working on 3D object reconstruction (with mesh) on mobile devices.
+- 📊 I'm currently an organzier for Task 3: Multi-modal Learning for Audio-driven Talking Head Generation in AAAI2024 International Workshop on AI for Digital Human
 
 <!-- 
 🕑 Some stats of my Github
