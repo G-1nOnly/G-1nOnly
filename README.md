@@ -6,7 +6,7 @@
 
 - 🥰 My current interest lies in computer vision, especially in 3D reconstruction and 3D editing.
 - 🤗 I'm currently an intern at **Alibaba** working on 3D object reconstruction (with mesh) on mobile devices.
-- 📊 I'm currently an organizer of a talking head synthesis competition in [AAAI2024 International Workshop on AI for Digital Human](https://digitalhumanworkshop.github.io/).
+- 📊 I'm an organizer of a talking head synthesis competition in [AAAI2024 International Workshop on AI for Digital Human](https://digitalhumanworkshop.github.io/).
 
 <!-- 
 🕑 Some stats of my Github
