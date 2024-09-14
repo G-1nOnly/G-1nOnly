@@ -1,8 +1,8 @@
 # Hi there 👋
 
-👨‍🎓 I'm **Jingnan Gao**, 
+🧑🏻‍🎓 I'm **Jingnan Gao**, 
 
-- 🎓 A second-year Ph.D. student in AI instititute, **Shanghai Jiao Tong University (SJTU)**.
+- 🧑🏻‍💻 A second-year Ph.D. student in AI instititute, **Shanghai Jiao Tong University (SJTU)**.
 
 - 🥰 My current interest lies in computer vision, especially in 3D reconstruction and 3D editing.
 - 💻 I am currently an intern at **Tencent XR Vision Labs** working on 3D geometry generation.
