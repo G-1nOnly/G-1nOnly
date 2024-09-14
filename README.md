@@ -9,6 +9,8 @@
 - 🤗 I was an intern at **Alibaba** working on 3D object reconstruction (with mesh) on mobile devices in 2023.
 - 📊 I was an organizer of a talking head synthesis competition in [AAAI2024 International Workshop on AI for Digital Human](https://digitalhumanworkshop.github.io/).
 
+- 🎓 I obtained B.S. in **Shanghai Jiao Tong University (SJTU)** in 2023.
+
 Feel free to contact me for any form of collaboration or discussion via gjn0310@sjtu.edu.cn.
 
 <!-- 
