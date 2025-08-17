@@ -2,7 +2,7 @@
 
 🧑🏻‍🎓 I'm **Jingnan Gao**, 
 
-- 🧑🏻‍💻 A second-year Ph.D. student at AI instititute, **Shanghai Jiao Tong University (SJTU)**.
+- 🧑🏻‍💻 A third-year Ph.D. student at AI instititute, **Shanghai Jiao Tong University (SJTU)**.
 
 - 🥰 My current interest lies in 3D computer vision, especially in **3D Geometry Reconstruction/Generation**.
 - 💻 I am currently a research intern at **Alibaba** working on 3D foundation model and 3D generation.
